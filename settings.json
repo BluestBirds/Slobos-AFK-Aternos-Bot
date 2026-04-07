@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BluestBirds.aternos.me",
+    "ip": "BluestBirds.aternos.me:36954",
     "port": 36954,
     "version": "1.21.11",
     "try-creative": false
